@@ -1,0 +1,3 @@
+Experiment;mean;n;sd
+control;2.75;4;1.26
+treatment;6.50;4;2.38

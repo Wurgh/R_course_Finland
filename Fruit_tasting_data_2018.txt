@@ -1,0 +1,27 @@
+"Variety" "Fruit" "Score1" "Score2"
+"1" "Bounty" "strawberry" 4.3 4
+"2" "Sonata" "strawberry" 2.8 4
+"3" "Polka" "strawberry" 3.6 4
+"4" "Malwina" "strawberry" 3.9 4
+"5" "Salsa" "strawberry" 3.2 3
+"6" "Rumba" "strawberry" 3.2 3
+"7" "Allstar" "strawberry" 3.8 2 
+"8" "Florence" "strawberry" 4.2 5
+"9" "Mae" "strawberry" 1.7 4
+"10" "Latestar" "strawberry" 5.3 4
+"11" "Lowanna" "strawberry" 2.8 4
+"12" "Mira" "strawberry" 2.5 2
+"13" "Monophylla" "strawberry" 6.4 4
+"14" "Northeastern" "strawberry" 5.6 5
+"15" "Sara" "strawberry" 3.4 3
+"16" "Maradesbois" "strawberry" 5.9 6
+"17" "Lobo" "apple" 2.1 6
+"18" "Amorosa" "apple" 3.7 6
+"19" "Santana" "apple" 3.1 4
+"20" "Discovery" "apple" 3.8 4
+"21" "Rubinola" "apple" 4.2 4
+"22" "Zari" "apple" 3.2 4
+"23" "Jaspi" "apple" 2.3 1
+"24" "Fuji" "apple" 1.3 1
+"25" "Golden" "apple" 3 1
+"26" "Pinklady" "apple" 4.4 6
