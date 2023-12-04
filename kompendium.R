@@ -1,14 +1,12 @@
-#zmena ?loziste
 getwd()
-MyDirectory <- "C:/Users/Client/Desktop/Ostatn?/Skola/University of Turku/R"
-TurkuDirectory<-'\\\\utuhome.utu.fi\\tokypt\\R'
+#MyDirectory <- "C:/Users/Client/Desktop/Ostatn?/Skola/University of Turku/R"
+#TurkuDirectory<-'\\\\utuhome.utu.fi\\tokypt\\R'
 setwd(TurkuDirectory)
-#Ctu z datafajlu
-#nejdr?v nastav?m v?choz? cestu kde m?m excelovou tabulku
+#Reading from specific datafiles
 
-#!!!!!!!!!!!!!!!!
+#!!!!!!!!!!!!!!!
 #THE KOMPENDIUM
-#!!!!!!!!!!!!!!!!
+#!!!!!!!!!!!!!!!
 
 print ("Hello world")
 c(1:40)
@@ -19,18 +17,17 @@ c(1:40)
 #vektor neulozenej
 myVector<-c(1,2,3,4,5,6)
 myMatrix<-matrix(c(1,2,3,4),2)
-#Zeptej se na dve dvojky u matrixu
 
-#p?smena
+#character vector
 myCharacterVector<-c("a","b","c","d")
 
 c("a",2)
 
-#pojmenov?n? vektoru
+#naming vektor
 names(myCharacterVector)<-c("letter.1","letter.2","letter.3","letter.4")
 myCharacterVector
 
-#pojmenov?n? matrixu
+#pojmenovani matrixu
 colnames(myMatrix)<-c("col1","col2")
 rownames(myMatrix)<-c("row1","row2")
 myMatrix
