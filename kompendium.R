@@ -231,7 +231,7 @@ mean(myData$mass[c(cervena)])
 #Exercise I.4 
 #a) Copy-paste the following information to a Notepad file and save it in your working directory. Import the data into R without changing any of the text.
 #b) Read the data into R in such a way that habitat is coded as a factor. Investigate the differences in how the variables are interpreted using some of the functions introduced in this part to explore your data.
-ctyrka<-read.csv("ctyrka.txt", stringsAsFactors = TRUE)
+ctyrka<-read.csv("ex_I_4_copied.txt", stringsAsFactors = TRUE)
 str(ctyrka)
 summary(ctyrka)
 hist(ctyrka$count)
