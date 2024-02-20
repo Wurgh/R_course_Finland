@@ -1,8 +1,13 @@
 getwd()
 #MyDirectory <- "C:/Users/Client/Desktop/Ostatn?/Skola/University of Turku/R"
-#TurkuDirectory<-'\\\\utuhome.utu.fi\\tokypt\\R'
-setwd(TurkuDirectory)
+#HomeDirectory <- "C:/Users/tkypt/Desktop/R_intro_course_turku_finland_2022/data1"
+setwd(HomeDirectory)
 #Reading from specific datafiles
+
+
+#install.packages("devtools")
+#install.packages("ggplot2")
+#Some required packages
 
 #!!!!!!!!!!!!!!!
 #THE KOMPENDIUM
